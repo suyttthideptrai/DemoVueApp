@@ -4,7 +4,7 @@ import PCManager from './components/PCManager.vue';
 </script>
 
 <template>
-  <PCManager :initialPc=0 />
+  <PCManager :initialPc=1 />
 </template>
 
 <style scoped>
